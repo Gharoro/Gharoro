@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and Spring Boot.**
 
-- 👨‍💻 All of my projects are available at [https://pureheartgharoro.vercel.app/](https://pureheartgharoro.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://gharoropureheart.vercel.app/](https://gharoropureheart.vercel.app/)
 
 - 💬 Ask me about **React, Angular and Nest.js**
 
