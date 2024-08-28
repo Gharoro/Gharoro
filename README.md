@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working at [Seamfix](https://seamfix.com/)
 
-- 🌱 I’m currently learning **Java and Spring Boot.**
-
 - 👨‍💻 All of my projects are available at [https://gharoropureheart.vercel.app/](https://gharoropureheart.vercel.app/)
 
 - 💬 Ask me about **React, Angular and Nest.js**
